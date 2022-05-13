@@ -8,6 +8,7 @@ namespace Course_management_application
         {
             Console.WriteLine("Wwelcome to the Course Management Application !");
 
+            //int selection
             int selection;
             do
             {
