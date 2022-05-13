@@ -1,0 +1,14 @@
+C:\Users\Afa\OneDrive\Desktop\C#tasks\My-s\My6 L18\Course management application\Course management application\bin\Debug\netcoreapp3.1\Course management application.exe
+C:\Users\Afa\OneDrive\Desktop\C#tasks\My-s\My6 L18\Course management application\Course management application\bin\Debug\netcoreapp3.1\Course management application.deps.json
+C:\Users\Afa\OneDrive\Desktop\C#tasks\My-s\My6 L18\Course management application\Course management application\bin\Debug\netcoreapp3.1\Course management application.runtimeconfig.json
+C:\Users\Afa\OneDrive\Desktop\C#tasks\My-s\My6 L18\Course management application\Course management application\bin\Debug\netcoreapp3.1\Course management application.runtimeconfig.dev.json
+C:\Users\Afa\OneDrive\Desktop\C#tasks\My-s\My6 L18\Course management application\Course management application\bin\Debug\netcoreapp3.1\Course management application.dll
+C:\Users\Afa\OneDrive\Desktop\C#tasks\My-s\My6 L18\Course management application\Course management application\bin\Debug\netcoreapp3.1\Course management application.pdb
+C:\Users\Afa\OneDrive\Desktop\C#tasks\My-s\My6 L18\Course management application\Course management application\obj\Debug\netcoreapp3.1\Course management application.csproj.AssemblyReference.cache
+C:\Users\Afa\OneDrive\Desktop\C#tasks\My-s\My6 L18\Course management application\Course management application\obj\Debug\netcoreapp3.1\Course management application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Afa\OneDrive\Desktop\C#tasks\My-s\My6 L18\Course management application\Course management application\obj\Debug\netcoreapp3.1\Course management application.AssemblyInfoInputs.cache
+C:\Users\Afa\OneDrive\Desktop\C#tasks\My-s\My6 L18\Course management application\Course management application\obj\Debug\netcoreapp3.1\Course management application.AssemblyInfo.cs
+C:\Users\Afa\OneDrive\Desktop\C#tasks\My-s\My6 L18\Course management application\Course management application\obj\Debug\netcoreapp3.1\Course management application.csproj.CoreCompileInputs.cache
+C:\Users\Afa\OneDrive\Desktop\C#tasks\My-s\My6 L18\Course management application\Course management application\obj\Debug\netcoreapp3.1\Course management application.dll
+C:\Users\Afa\OneDrive\Desktop\C#tasks\My-s\My6 L18\Course management application\Course management application\obj\Debug\netcoreapp3.1\Course management application.pdb
+C:\Users\Afa\OneDrive\Desktop\C#tasks\My-s\My6 L18\Course management application\Course management application\obj\Debug\netcoreapp3.1\Course management application.genruntimeconfig.cache
