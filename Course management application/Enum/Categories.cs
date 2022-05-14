@@ -8,6 +8,6 @@ namespace Course_management_application.Enum
     {
         Programming,
         Design,
-        System_administration,
+        System_administration
     }
 }
