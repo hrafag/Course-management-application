@@ -11,12 +11,19 @@ namespace Course_management_application.Models
         public string GroupNo;
         public string Type;
 
-        public Student(string iid, string fullname, string groupno, string type)
+        public Student(string id, string fullname, string groupno)
         {
-            Id = Id;
+            Id = id;
             Fullname = fullname;
             GroupNo = groupno;
-            type = type;
+        }
+
+        public Student(string id, string fullname, string groupno, string type)
+        {
+            Id = id;
+            Fullname = fullname;
+            GroupNo = groupno;
+            Type = type;
         }
     }
 }

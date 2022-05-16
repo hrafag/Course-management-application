@@ -7,13 +7,22 @@ namespace Course_management_application.Models
 {
     class Group
     {
-        private string No;
-        public bool IsOnline;
+        public string No;
+        //public bool IsOnline;
         public Categories Category;
-        private int switch_on;
-        public static int count;
 
-        static Group()
+        public Student Student { get; private set; }
+
+        public static int count;
+        public Students[,] Students;
+        public string id;
+        public string fullname;
+        public string groupno;
+
+        //public Student Student { get; }          
+        //public int switch_on;
+
+        public Group()
         {
             count = 300;
         }
@@ -34,7 +43,27 @@ namespace Course_management_application.Models
                 default:
                     break;
             }
+            count++;
+            int count1 = count;
             Category = category;
+            Student = new Student(id, fullname, groupno);
+
+            
+            for (int count = 300; count < count1; count++)    
+            {
+                Group group = new Group();   
+            }
+
+            Group(string no, Categories category)
+        {
+                No = no;
+                Category = category;
+        }
+        }
+
+        private void Group(string v, string no, Categories categories, Categories category)
+        {
+            throw new NotImplementedException();
         }
     }
 }
